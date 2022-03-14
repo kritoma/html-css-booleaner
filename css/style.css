@@ -23,3 +23,31 @@ a{
 .date{
     color: gray;
 }
+
+.highlighter{
+    background-color: yellow;
+}
+
+table{
+    width: 100%;
+    border-spacing: 0;
+}
+
+th{
+    width: 25%;
+    text-align: left;
+}
+
+.column-3{
+    width: 50%;
+    text-align: left;
+}
+
+thead tr{
+    background-color: blue;
+    color: white;
+}
+
+.background-tr{
+    background-color: skyblue;
+}
