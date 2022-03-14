@@ -10,7 +10,7 @@ header img{
     height: 50%;
 }
 
-header h4{
+h4{
     color: gray;
     margin: 0;
 }
@@ -50,4 +50,27 @@ thead tr{
 
 .background-tr{
     background-color: skyblue;
+}
+
+.first-site{
+    background-image: url("../img/monitor.jpg");
+   
+}
+
+.second-site{
+    background-image: url("../img/graph.jpg");
+    
+}
+
+.first-site, .second-site{
+    color: white;
+    font-size: 23px;
+    height: 150px;
+    width: 250px;
+    background-size: cover;
+    background-position: center;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-weight: bolder;
 }
