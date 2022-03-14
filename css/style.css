@@ -1,0 +1,25 @@
+
+.header-top{
+    background-image: url("../img/pattern.png");
+    height: 150px;
+    background-position: center;
+    background-color:lightskyblue;
+}
+
+img{
+    height: 50%;
+}
+
+header h4{
+    color: gray;
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+    color:lightskyblue;
+}
+
+.date{
+    color: gray;
+}
